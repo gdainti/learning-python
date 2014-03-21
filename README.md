@@ -1,4 +1,4 @@
 learning-python
 ===============
 
-Watching Google's Python Class and making homework
+Watching Google's Python Class and doing homework
